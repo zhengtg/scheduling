@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/scheduling",
+    "name": "tanson/scheduling",
     "description": "Task scheduling extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "task", "Scheduling"],
